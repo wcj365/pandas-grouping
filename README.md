@@ -1,1 +1,1 @@
-# pandas-grouping
+# Pandas Grouping
